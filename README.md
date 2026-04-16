@@ -10,6 +10,14 @@ A QuickLook extension for macOS that enables native video preview in Finder for 
 brew install --cask ptaru/tap/vidpreview
 ```
 
+### PrivateClient
+An unofficial, better behaved macOS client for Private Internet Access
+
+**Installation:**
+```bash
+brew install --cask ptaru/tap/privateclient
+```
+
 ## Usage
 
 You can also add this tap to your Homebrew installation:
@@ -20,4 +28,5 @@ brew tap ptaru/tap
 Then install the available tools as usual:
 ```bash
 brew install --cask vidpreview
+brew install --cask privateclient
 ```
