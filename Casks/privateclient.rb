@@ -1,6 +1,6 @@
 cask "privateclient" do
   version "1.0b4"
-  sha256 "c0f600b61d35cc3ddca203416a8e92beed85f024de84811847cb1e7b36af6e7c"
+  sha256 "864dbf65ea535f2ee3100964319b7fc8b864785ee07510984c1a67dc9a940015"
 
   url "https://github.com/ptaru/PrivateClient/releases/download/#{version}/PrivateClient-Release.zip"
   name "PrivateClient"
